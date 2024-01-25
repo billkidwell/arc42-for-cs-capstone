@@ -1,5 +1,14 @@
 # Introduction and Goals
 
+> Make sure you cover your customer, your problem statement and your > Product Vision in this section. You can make these subsections for clarity.
+Product Vision
+Customer
+Need/Value
+Target Users
+Background
+Differentiator
+Justification
+
 Describes the relevant requirements and the driving forces that software
 architects and development team must consider. These include
 
